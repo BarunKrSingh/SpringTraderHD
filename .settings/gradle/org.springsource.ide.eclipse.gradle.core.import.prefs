@@ -1,0 +1,10 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleImportPreferences
+#Thu Aug 27 14:42:59 IST 2015
+addResourceFilters=true
+afterTasks=afterEclipseImport;
+beforeTasks=cleanEclipse;eclipse;
+enableAfterTasks=true
+enableBeforeTasks=true
+enableDSLD=false
+enableDependendencyManagement=true
+projects=;spring-nanotrader-asynch-services;spring-nanotrader-chaos;spring-nanotrader-data;spring-nanotrader-mapreduce;spring-nanotrader-services;spring-nanotrader-service-support;spring-nanotrader-web;tools;
